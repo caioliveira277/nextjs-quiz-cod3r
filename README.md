@@ -49,6 +49,9 @@ Os scripts abaixo executam a compilação do projeto.
 ***Curso Cod3er:***<br>
 [<ins>Next.js & React - Curso Completo - Totalmente Baseado em Projetos</ins>](https://www.cod3r.com.br/courses/nextjs)
 
+***Projeto online:***<br>
+[<ins>Projeto Quiz - Vercel</ins>](https://nextjs-quiz-cod3r.vercel.app/)
+
 
 ---
 ## Licença
