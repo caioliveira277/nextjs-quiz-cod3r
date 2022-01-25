@@ -3,7 +3,7 @@ import Questionario from '../components/Questionario'
 import QuestaoModel from '../model/questao'
 import { useRouter } from 'next/router'
 
-const BASE_URL = 'http://localhost:3000/api'
+const BASE_URL = 'https://nextjs-quiz-cod3r.vercel.app/'
 
 export default function Home() {
   const router = useRouter()
